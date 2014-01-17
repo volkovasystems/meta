@@ -16,7 +16,7 @@
 	@end-module-configuration
 
 	@module-documentation:
-		
+		The meta function dictates strict rule
 	@end-module-documentation
 */
 meta = function meta( method, parameters, configuration ){
