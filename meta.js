@@ -78,6 +78,6 @@ meta = function meta( method, parameters, configuration ){
 		"stringFlag": false,
 		"booleanFlag": false,
 		"optionalFlag": false
-	}
+	};
 	
 };
