@@ -25,9 +25,11 @@
 			}
 
 			~ linked property *	 	priority 0
+			! disregard property 	priority 0
 			: default value *	 	priority 0
 			- group of types		priority 1
 			| or separator		  	priority 2
+			& and separator			priority 2
 			; meta mutator          priority 3
 	@end-module-documentation
 */
